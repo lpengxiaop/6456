@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.ku-lo.com/logo.png</string>
+					<string>https://qq.shuntong123.com/ios/logo.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -33,7 +33,7 @@
 				<key>subtitle</key>
 				<string>App Subtitle</string>
 				<key>title</key>
-				<string>乐思助手</string>
+				<string>手心影院</string>
 			</dict>
 		</dict>
 	</array>
